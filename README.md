@@ -9,7 +9,7 @@ This project focuses on creating a comprehensive report using various Excel func
 
 **Project Context** 
 
-As a Business Analyst at IJS Bank Limited, the task is to analyze loan applicant data and present a detailed report to the branch manager. The report will be showcased using a dashboard in MS Excel.
+As a Business Analyst at IJS Bank Limited, the task is to analyze loan applicant data and present a detailed report to the Supply Chain Management Company. The report will be showcased using a dashboard in MS Excel.
 
 
 
